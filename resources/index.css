@@ -216,6 +216,9 @@
     .book-catagory p {
         font-size: 0.5rem;
     }
+    .book-catagory {
+        margin: 2rem 0rem 0rem 0rem;
+    }
 }
 
 #top-rated-books {
@@ -286,6 +289,9 @@
 @media only screen and (max-width:600px) {
     .coffee-catagory p {
         font-size: .5rem;
+    }
+    .coffee-catagory {
+        margin: 2rem 0rem 0rem 0rem;
     }
 }
 .coffee-catagory:hover {
